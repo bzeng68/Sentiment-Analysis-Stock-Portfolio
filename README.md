@@ -1,0 +1,1 @@
+Built a predictive trading model using Python, NLTK, and Scikit-Learn to classify sentiment across 1.75M+ tweets and construct a High-Minus-Low portfolio aimed at outperforming the S&P500<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/b36b887f-2a6d-4d03-91be-23160d64551b" />
